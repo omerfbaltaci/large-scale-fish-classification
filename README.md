@@ -48,7 +48,7 @@ The model was trained using different optimizers and the results were evaluated 
 - **Confusion Matrix**: Visualizes the model's performance on each fish species.
 
 ## Kaggle Notebook
-You can find the project on Kaggle [here]([your_kaggle_notebook_link](https://www.kaggle.com/code/omerfbaltaci/large-scale-fish-classification)).
+https://www.kaggle.com/code/omerfbaltaci/large-scale-fish-classification
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
